@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "metrica",
+    "password": "anomames",
+    "database": "cm_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "metrica",
+    "password": "anomames",
+    "database": "cm_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "metrica",
+    "password": "anomames",
+    "database": "cm_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
